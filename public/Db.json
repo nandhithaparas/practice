@@ -1,0 +1,17 @@
+[
+    {
+        "userid": 1,
+        "name": "KITKAT",
+         "flavor": "Dark Choclate"
+    },
+    {
+        "userid": 2,
+        "name": "DAIRY MILK" ,
+         "flavor": "Black Current"
+    },
+    {
+        "userid": 3,
+        "name": "HERSHEY KISSES",
+         "flavor": "Roasted Almond"
+    }
+]
